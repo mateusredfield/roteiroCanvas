@@ -1,0 +1,45 @@
+ 
+Linha Atual
+
+
+    indo - animacoes
+
+    - distanciamento qndo impedimento
+    - animacao projeto, repensar elementos minimos pra ter um game mvp talvez
+    - transacoes normais e cripto, ideia eh ter economia complexa o suficiente pra ser sustentavel
+    - limpar o codigo dos comentarios do sprite e possivelemene comecar logo
+      a programar    
+    - inicialmente usar energia entre regras de negocio e codigos, ou aparte tipo site co chat gp 
+    - reorganizar esses topicos pq ja esta confuso
+    - precisa ser algo simples e monetizavel, melhor errar logo e cedo     
+    - mr2 com talvez iteracoes tipo persona...
+    - iteracoes com os jogadores  
+    - mecanica de acoes ou energia misturada com calendario, talvez as sociais gastando energia de 
+      acordo com a criacao do the sins, um boneco mais carismatico tem mais facilidade com algo,
+      o mais nerd em tese teria, teria mais habilidade 
+    numero de acoes por semana ou 10 dias ou quinzena, decrescendo a medida que o tempo off aumenta
+
+
+t e d monsters (sdds monster rancher) 
+
+sis luta tipo cartas do axie
+sis luta tipo grand chase
+sis luta tipo axie e grand chase com um cara de carta e um de mov
+
+ ok - fazer o press start
+ ok -  logica de velocidade
+ - logica de camera
+ - logica de mapa
+ - logica de colisao
+ - logica de coleta de item
+ - logica de itemizacao
+ - logica de nivel
+ - Logica de danos
+ - Animacao de danos
+ - Comando do 2o, ou Ia
+ - Fazer primeiro o encapsulamento e reordenacao do codigo, depois, e ver sobre padroes de design por ultimo
+ - A primeira versao nao considera setInterval q talvez seja alternativa melhor
+ - Talvez mudar a logica de chamada de funcoes dado q a mesma poderia estar no prorio objeto
+ - melhorar a logica das classes
+ - encapsular e ler sobre padres de design q podem ajudar nisso
+ - blockchain opcional, importante eh ser plai to earn, discutir com iutchubers qndo estiver quase pronto
