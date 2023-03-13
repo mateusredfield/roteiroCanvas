@@ -1,18 +1,38 @@
- 
+
+Marco - 3-12-23 
+
+    Pra ter resultado merdda o projeto toma um rumo na aconselhado q se da por focar em resulado, 
+      ou seja fadado a dar merdda mesmo q de certo.
+
+   O q tem-se
+
+   - a projeto inicial sem separacao total de codigo, e refatoracao     
+   - projeto de animacao tambem sem separacao de codigo pelo item anterior no arquivo sprites
+   - Com isso o projeto se ramifica
+
+
+
 Linha Atual
 
+  - indo - implementacao do temporizador global lado cliente - frame rate no caso
+  - velecidade de animacao
 
-    indo - animacoes
 
+    - ver todos assim q possivel 
+    - ou passa o nome das funcoes e a funcao itera o vetor ou varre todos os nomes afins (melhor)  
     - distanciamento qndo impedimento
-    - animacao projeto, repensar elementos minimos pra ter um game mvp talvez
+    - animacao projeto 
+    - repensar elementos minimos pra ter um game mvp talvez
     - transacoes normais e cripto, ideia eh ter economia complexa o suficiente pra ser sustentavel
+    - mecanica de canalizacao de tempo de jogo em ultmates, vai produzir itens ou planetas tipo ogame
+    - mecanica tipo ogame
     - limpar o codigo dos comentarios do sprite e possivelemene comecar logo
       a programar    
     - inicialmente usar energia entre regras de negocio e codigos, ou aparte tipo site co chat gp 
     - reorganizar esses topicos pq ja esta confuso
     - precisa ser algo simples e monetizavel, melhor errar logo e cedo     
     - mr2 com talvez iteracoes tipo persona...
+    - ogame talvez
     - iteracoes com os jogadores  
     - mecanica de acoes ou energia misturada com calendario, talvez as sociais gastando energia de 
       acordo com a criacao do the sins, um boneco mais carismatico tem mais facilidade com algo,
@@ -26,6 +46,8 @@ sis luta tipo cartas do axie
 sis luta tipo grand chase
 sis luta tipo axie e grand chase com um cara de carta e um de mov
 
+
+ ok - animacao basica
  ok - fazer o press start
  ok -  logica de velocidade
  - logica de camera
