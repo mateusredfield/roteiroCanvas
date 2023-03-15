@@ -1,36 +1,49 @@
 
-Marco - 3-12-23 
+status Atual
 
-    Pra ter resultado merdda o projeto toma um rumo na aconselhado q se da por focar em resulado, 
-      ou seja fadado a dar merdda mesmo q de certo.
+  Foco
 
-   O q tem-se
-
-   - a projeto inicial sem separacao total de codigo, e refatoracao     
-   - projeto de animacao tambem sem separacao de codigo pelo item anterior no arquivo sprites
-   - Com isso o projeto se ramifica
-
+    Estilo monster rancher com pokemon, axie e personha, mr2
+    Mov 1d e quem sabe 2d
+ 
+  O q se tem  
+   1 arquivo principal na index, 1 de sprite e frame rate no sprite 
+  - movimentacao com colisao meia boca na master - arquivo index
+  - animacao 2d de sprite - arquivo sprite
+  - velocidade de animacao misturado com frame rate - era pra ser 2 coisas diff - arquivo sprite  
+  
 
 
 Linha Atual
-
-  - indo - implementacao do temporizador global lado cliente - frame rate no caso
-  - velecidade de animacao
-
-
-    - ver todos assim q possivel 
-    - ou passa o nome das funcoes e a funcao itera o vetor ou varre todos os nomes afins (melhor)  
+  
+  - Indo - Mvp simples - Simular o mvp - Gameplai mr2 - comecar com jogo,
+    - diarreia intelectual pra escrever(nao captura de forma convencial esse eh o ponto) poke, 
+    - O q fazer para se ter o mvp, talvez um planejamento
+    - Vai ter 2 jogadas de camera talvez, o q for mais facil pro gameplai por hora
+    - Integrar com a movimentacao previa
+    - Desenhar algum pedaco com o q ja tem, no caso a gameplai
+    - Parallax
+    - Inimigos animados apenas se movimentando sem IA por hora
+    - videos
+   
+    - ver todos assim q possivel
+    - ou passa o nome das funcoes init e a funcao itera o vetor ou varre todos os nomes afins (melhor)
+    - estudar promises
+    - focar em facilidade de codigo
+    - qndo chegar nas mecanicas de jogo vou precisar focar mto nas regras de negocio   
     - distanciamento qndo impedimento
     - animacao projeto 
     - repensar elementos minimos pra ter um game mvp talvez
     - transacoes normais e cripto, ideia eh ter economia complexa o suficiente pra ser sustentavel
     - mecanica de canalizacao de tempo de jogo em ultmates, vai produzir itens ou planetas tipo ogame
     - mecanica tipo ogame
-    - limpar o codigo dos comentarios do sprite e possivelemene comecar logo
+    - Precisa ter mecanica tambem do ogame pra que fica de so de farme
+    - O foco eh ter uma gameplai simples mas complexa de se jogar bem.  
+    ok - limpar o codigo dos comentarios do sprite e possivelemene comecar logo
       a programar    
-    - inicialmente usar energia entre regras de negocio e codigos, ou aparte tipo site co chat gp 
-    - reorganizar esses topicos pq ja esta confuso
-    - precisa ser algo simples e monetizavel, melhor errar logo e cedo     
+    ok - inicialmente usar energia entre regras de negocio e codigos, ou aparte tipo site co chat gp 
+    ok - reorganizar esses topicos pq ja esta confuso
+    - foco no mvp     
     - mr2 com talvez iteracoes tipo persona...
     - ogame talvez
     - iteracoes com os jogadores  
@@ -50,6 +63,8 @@ sis luta tipo axie e grand chase com um cara de carta e um de mov
  ok - animacao basica
  ok - fazer o press start
  ok -  logica de velocidade
+ ok - indo - implementacao do temporizador global lado cliente - frame rate no caso
+ ok - Ressalva, acomxambrado - a animacao tem velocidade dada pela diff minima de dois intervalos  velecidade de animacao
  - logica de camera
  - logica de mapa
  - logica de colisao
@@ -65,3 +80,15 @@ sis luta tipo axie e grand chase com um cara de carta e um de mov
  - melhorar a logica das classes
  - encapsular e ler sobre padres de design q podem ajudar nisso
  - blockchain opcional, importante eh ser plai to earn, discutir com iutchubers qndo estiver quase pronto
+
+
+Marco - 3-12-23 
+
+    Pra ter resultado merdda o projeto toma um rumo na aconselhado q se da por focar em resulado, 
+      ou seja fadado a dar merdda mesmo q de certo.
+
+   O q tem-se
+
+   - a projeto inicial sem separacao total de codigo, e refatoracao     
+   - projeto de animacao tambem sem separacao de codigo pelo item anterior no arquivo sprites
+   - Com isso o projeto se ramifica
