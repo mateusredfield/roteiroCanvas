@@ -1,6 +1,10 @@
 
 status Atual
 
+  sobreviver
+
+  atividades, sovete na praia
+
   Foco
 
     Estilo monster rancher com pokemon, axie e personha, mr2
