@@ -3,11 +3,11 @@ status Atual
 
   sobreviver
 
-  atividades, sovete na praia
+  sonhar com mulher morena, sonhar com dentista, sonhar com cachorro, atividades, sovete na praia
 
   Foco
 
-    Estilo monster rancher com pokemon, axie e personha, mr2
+    Estilo monster rancher com pokemon(captura diferenciada), axie e personha, mr2
     Mov 1d e quem sabe 2d
  
   O q se tem  
@@ -20,7 +20,8 @@ status Atual
 
 Linha Atual
   
-  - Indo - Mvp simples - Simular o mvp - Gameplai mr2 - comecar com jogo,
+  - Indo - Simplicar mov, fazer veloc, camera, colisao 
+    - Refazer movimentacao e comparar Mvp simples - Simular o mvp - Gameplai mr2 - comecar com jogo,
     - diarreia intelectual pra escrever(nao captura de forma convencial esse eh o ponto) poke, 
     - O q fazer para se ter o mvp, talvez um planejamento
     - Vai ter 2 jogadas de camera talvez, o q for mais facil pro gameplai por hora
@@ -62,7 +63,9 @@ t e d monsters (sdds monster rancher)
 sis luta tipo cartas do axie
 sis luta tipo grand chase
 sis luta tipo axie e grand chase com um cara de carta e um de mov
-
+sis de partida tipo cs, rounds curtos, de 3 min talvez, tempo de jogo 10 a 20 
+sis boss fight mista a de  
+sis easter eggs com sentido pra estoria
 
  ok - animacao basica
  ok - fazer o press start
