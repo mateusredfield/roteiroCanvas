@@ -20,8 +20,16 @@ status Atual
 
 Linha Atual
   
-  - Indo - Simplicar mov, fazer veloc, camera, colisao 
+  - Indo - Simplicar mov, fazer veloc, camera, colisao, frames, mergear animacao
+    mvp, mais importante eh ter camadas rosqueaveis o qnto antes 
+    candidato forte/parece bom/vertente/candidato a pilar - precisa ser bonito, logo usar apenas 2d mais pra axie mr2 tabuleiro inves de lol
+    candidato mvp - mr4 com tabuleiro grande ou pequeno, cada luta seria uma area ou apenas quadrado tipo ui gi oh de tabuleiro
+    - candadidado seria humanos e animais, todos bonitos com coreografias
+    - no caso tanto poderia se capturar monstros com funcionalidades e necessidades diferentes
+    como recrutar humanos, cada monstro teria uma funcao sendo util em alguma coisa, dando significado e necessidades
+    de itemizacao na criacao deles, no caso seria um mr2 mais complexo com jobs de dinheiro e na fazendo mesmo
     - Refazer movimentacao e comparar Mvp simples - Simular o mvp - Gameplai mr2 - comecar com jogo,
+    - Fazer toda a implementacao encontrar as regras de negocio e fazer um pvp minimo  
     - diarreia intelectual pra escrever(nao captura de forma convencial esse eh o ponto) poke, 
     - O q fazer para se ter o mvp, talvez um planejamento
     - Vai ter 2 jogadas de camera talvez, o q for mais facil pro gameplai por hora
@@ -30,42 +38,57 @@ Linha Atual
     - Parallax
     - Inimigos animados apenas se movimentando sem IA por hora
     - videos
-   
+    - candidato - build recomendada tanto pra farm quanto pra idle
+    - candidato - colocar rezas positivas no jogo talvez
+    
     - ver todos assim q possivel
+    - candidato - tentar colocar a sensacao dramatica da iui
+    - candidata - camera tipo mr4
     - ou passa o nome das funcoes init e a funcao itera o vetor ou varre todos os nomes afins (melhor)
-    - estudar promises
     - focar em facilidade de codigo
     - qndo chegar nas mecanicas de jogo vou precisar focar mto nas regras de negocio   
     - distanciamento qndo impedimento
     - animacao projeto 
     - repensar elementos minimos pra ter um game mvp talvez
     - transacoes normais e cripto, ideia eh ter economia complexa o suficiente pra ser sustentavel
-    - mecanica de canalizacao de tempo de jogo em ultmates, vai produzir itens ou planetas tipo ogame
+    candidato forte/consideravel/interessante - mecanica de canalizacao de tempo de jogo em ultmates, vai produzir itens ou planetas tipo ogame
     - mecanica tipo ogame
-    - Precisa ter mecanica tambem do ogame pra que fica de so de farme
+    candidato forte - Precisa ter mecanica tambem do ogame pra que fica de so de farme
     - O foco eh ter uma gameplai simples mas complexa de se jogar bem.  
     ok - limpar o codigo dos comentarios do sprite e possivelemene comecar logo
       a programar    
     ok - inicialmente usar energia entre regras de negocio e codigos, ou aparte tipo site co chat gp 
     ok - reorganizar esses topicos pq ja esta confuso
-    - foco no mvp     
-    - mr2 com talvez iteracoes tipo persona...
     - ogame talvez
-    - iteracoes com os jogadores  
-    - mecanica de acoes ou energia misturada com calendario, talvez as sociais gastando energia de 
+   candidato forte - iteracoes com os jogadores  
+   candidato forte - todo e qq dividendo volta pro jogo
+   candidato forte - precisa ter um loop de fazer o jogador retornar
+   candidato forte  - mecanica de acoes ou energia misturada com calendario, talvez as sociais devessem ser escondidas, gastando energia de 
       acordo com a criacao do the sins, um boneco mais carismatico tem mais facilidade com algo,
       o mais nerd em tese teria, teria mais habilidade 
-    numero de acoes por semana ou 10 dias ou quinzena, decrescendo a medida que o tempo off aumenta
-
+   candidato forte/reavaliar -  numero de acoes por semana ou 10 dias ou quinzena, decrescendo a medida que o tempo off aumenta
+   ideia eh pesar na media as primeiras acoes, as demais pesariam menos na media somado a limitar as acoes
+   pra deixar mais valioso e simples, mas reavaliar isso 
 
 t e d monsters (sdds monster rancher) 
 
-sis luta tipo cartas do axie
+candidato - 
+candidato - provavel tematica, ou mr2 p3, talvez com axie, com guerra, ou, mega man   
+candidato - sis mecanica de guerra
+sis mecanicas de elementais 
+candidato - sis luta tipo cartas do axie
 sis luta tipo grand chase
 sis luta tipo axie e grand chase com um cara de carta e um de mov
+sis tipo igual ao lol, comeca com tatica inveade estrategia e td antes e no comeco
+  ai esfria e comeca faze de ganhar com mesmo esquema de tatica de comeco, e depois
+  intensifica o ritmo, ou simplesmente comeca de vagar e vai aumentando
+  nos elos mais altos repensar essa mecanica pra talvez ser frenesi o tempo todo
+  com tensao de selva ou algo do tipo, sempre lembrar do futebol, pode ser diver
+  tido de varzea ou competitivo internacional 
 sis de partida tipo cs, rounds curtos, de 3 min talvez, tempo de jogo 10 a 20 
-sis boss fight mista a de  
+sis boss fight mista a de luta e charadas talvez com estrategia quem sabe
 sis easter eggs com sentido pra estoria
+sis tematica mecha, mega man
 
  ok - animacao basica
  ok - fazer o press start
@@ -81,13 +104,16 @@ sis easter eggs com sentido pra estoria
  - Logica de danos
  - Animacao de danos
  - Comando do 2o, ou Ia
+ - candidato forte - ausencia e presença precisa ser recompensada
+ - candidato mult acc permitido, mas precisa de balanceamento 
+ - aquela especial do quebramento em ondas dando socao no chao + tempo ausente
  - Fazer primeiro o encapsulamento e reordenacao do codigo, depois, e ver sobre padroes de design por ultimo
  - A primeira versao nao considera setInterval q talvez seja alternativa melhor
  - Talvez mudar a logica de chamada de funcoes dado q a mesma poderia estar no prorio objeto
  - melhorar a logica das classes
  - encapsular e ler sobre padres de design q podem ajudar nisso
- - blockchain opcional, importante eh ser plai to earn, discutir com iutchubers qndo estiver quase pronto
-
+ - blockchain essencial por ser atrativo de p2e, importante eh ser plai to earn, discutir com iutchubers qndo estiver quase pronto
+  
 
 Marco - 3-12-23 
 
