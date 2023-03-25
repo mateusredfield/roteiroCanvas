@@ -24,11 +24,14 @@ Completos por enquanto
 
 Linha Atual
   
-  - Indo - fazer veloc, colisao, mergear animacao, tomara q divisor de aguas - foco em animacao 
+  - Indo - fazer veloc, transformar em classe ou lib, mergear animacao, tomara q divisor de aguas - foco em animacao 
     ou regras pra animar 
     - decisao de projeto - fisica, inercia, velocidade e fisica vao precisar ser boas mas ainda nao eh uma boa 
     ja coloca-las pois precisa dos demais elementos de loop isolados e corretos
     
+    - pegar td e transformar em classe se der, assim importa a lib e instancia a classe 
+    - falta ver se tem mutation obj em classes, e dominar classes primeiro
+
     mvp, mais importante eh ter camadas rosqueaveis o qnto antes 
     candidato forte/parece bom/vertente/candidato a pilar - precisa ser bonito, logo usar apenas 2d mais pra axie mr2 tabuleiro inves de lol
     candidato mvp - mr4 com tabuleiro grande ou pequeno, cada luta seria uma area ou apenas quadrado tipo ui gi oh de tabuleiro
