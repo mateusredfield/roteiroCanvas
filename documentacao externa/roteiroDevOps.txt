@@ -11,19 +11,28 @@ status Atual
     Mov 1d e quem sabe 2d
  
   O q se tem  
+   index, sprite, movimentacao, camera, velocidade, temporizador
    1 arquivo principal na index, 1 de sprite e frame rate no sprite 
   - movimentacao com colisao meia boca na master - arquivo index
   - animacao 2d de sprite - arquivo sprite
   - velocidade de animacao misturado com frame rate - era pra ser 2 coisas diff - arquivo sprite  
   
+Completos por enquanto
 
+  - Simplificacao do mov, rosqueado separadamente
+  - Camera, rosqueado separadamente
 
 Linha Atual
   
-  - Indo - Simplicar mov, fazer veloc, camera, colisao, frames, mergear animacao
+  - Indo - fazer veloc, colisao, mergear animacao, tomara q divisor de aguas - foco em animacao 
+    ou regras pra animar 
+    - decisao de projeto - fisica, inercia, velocidade e fisica vao precisar ser boas mas ainda nao eh uma boa 
+    ja coloca-las pois precisa dos demais elementos de loop isolados e corretos
+    
     mvp, mais importante eh ter camadas rosqueaveis o qnto antes 
     candidato forte/parece bom/vertente/candidato a pilar - precisa ser bonito, logo usar apenas 2d mais pra axie mr2 tabuleiro inves de lol
     candidato mvp - mr4 com tabuleiro grande ou pequeno, cada luta seria uma area ou apenas quadrado tipo ui gi oh de tabuleiro
+    - modo pvp, 1v1, 2v2, 3v3, 4v4, 5v5
     - candadidado seria humanos e animais, todos bonitos com coreografias
     - no caso tanto poderia se capturar monstros com funcionalidades e necessidades diferentes
     como recrutar humanos, cada monstro teria uma funcao sendo util em alguma coisa, dando significado e necessidades
@@ -89,6 +98,11 @@ sis de partida tipo cs, rounds curtos, de 3 min talvez, tempo de jogo 10 a 20
 sis boss fight mista a de luta e charadas talvez com estrategia quem sabe
 sis easter eggs com sentido pra estoria
 sis tematica mecha, mega man
+sis mov especial - olho q abre parcialmente com rosnado, se abriu pouco, ou grito conforme 
+    desempenho excepcional ou tempo de jogo
+sis luta rakudai kishi
+sis - elo positivo pros dois (mais pra um alem do normal e pro otro tb) caso tenham jogado
+    mto e com condicoes excepcionais     
 
  ok - animacao basica
  ok - fazer o press start
