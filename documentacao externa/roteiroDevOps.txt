@@ -24,7 +24,12 @@ Completos por enquanto
 
 Linha Atual
   
-  - Indo - fazer veloc, transformar em classe ou lib, mergear animacao, tomara q divisor de aguas - foco em animacao 
+  - contratos para nao se perder em relacao a variaveis etc talvez
+  - vai ser em 2d e fodasse
+  - na historia os humanos sao seres nao totalmente carne, ideia eh resistir a tiros
+  - jogadores se filiam a cla de alguma forma q de significado como um time profissional com afiliados e colocar um sreamer vs o oro 
+  - menicas talvez tipo winning eleven
+  - Indo - remodulando - fazer veloc, transformar em classe ou lib, mergear animacao, tomara q divisor de aguas - foco em animacao 
     ou regras pra animar 
     - decisao de projeto - fisica, inercia, velocidade e fisica vao precisar ser boas mas ainda nao eh uma boa 
     ja coloca-las pois precisa dos demais elementos de loop isolados e corretos
@@ -132,7 +137,12 @@ sis - elo positivo pros dois (mais pra um alem do normal e pro otro tb) caso ten
  - blockchain essencial por ser atrativo de p2e, importante eh ser plai to earn, discutir com iutchubers qndo estiver quase pronto
   
 
-Marco - 3-12-23 
+Marco 28-03-23
+
+    Codigo resoavelmente bem separado, antes de qq merge entre funcionalidades
+
+
+Marco - 12-03-23 
 
     Pra ter resultado merdda o projeto toma um rumo na aconselhado q se da por focar em resulado, 
       ou seja fadado a dar merdda mesmo q de certo.
