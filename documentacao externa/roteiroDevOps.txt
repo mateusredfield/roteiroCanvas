@@ -28,6 +28,7 @@ Linha Atual
   - caligragem dos movimentos (projeteis) vai ser via usagem com mouse mesmo com o programa salvando as posicoes
   - contratos para nao se perder em relacao a variaveis etc talvez
   - vai ser em 2d e fodasse
+  - vai ter visao de cima mesmo sendo 2d com tabuleiro com espaço fixo ou nao talvez
   - na historia os humanos sao seres nao totalmente carne, ideia eh resistir a tiros
   - jogadores se filiam a cla de alguma forma q de significado como um time profissional com afiliados e colocar um sreamer vs o oro 
   - mecanica de jogo idle, jogando so com estrategia com risco alternavel, com habilidade tipo wining eleven ou axie, ainda n sei 
