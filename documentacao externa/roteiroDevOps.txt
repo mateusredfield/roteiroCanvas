@@ -24,6 +24,8 @@ Completos por enquanto
 
 Linha Atual
   
+  - branch atual de merges de funcionalidades mudada de caseiro para mergs alguma coisa
+  - caligragem dos movimentos (projeteis) vai ser via usagem com mouse mesmo com o programa salvando as posicoes
   - contratos para nao se perder em relacao a variaveis etc talvez
   - vai ser em 2d e fodasse
   - na historia os humanos sao seres nao totalmente carne, ideia eh resistir a tiros
