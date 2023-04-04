@@ -25,6 +25,7 @@ Completos por enquanto
 Linha Atual
   
   - Parei aqui - Fazendo o chao, mov sem fisica, 1d (pq ainda nao tem fisica)
+  - Fazer por enquanto o mais simples possivel pois vai ser revisitado
   - Por hora ainda nao foi decidido sobre a luta do jogo, mas algo entre mr2 e grand chase com times
   - A visao vai ser em contrapartida, ou sea, meio de frente pra ver os detalhes e movimentacao de perto 
   - branch atual de merges de funcionalidades mudada de caseiro para mergs alguma coisa
