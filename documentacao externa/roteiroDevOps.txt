@@ -24,7 +24,9 @@ Completos por enquanto
 
 Linha Atual
   
-  - Parei aqui - Fazendo o chao, mov sem fisica, 1d (pq ainda nao tem fisica)
+  - Parei aqui - Fazendo velocidade sem fisica, porradaria, animacao dos mov sem fisica
+  - Fazendo o chao, mov sem fisica, 1d (pq ainda nao tem fisica)
+  - campo do tamanho do winning eleven, pvz
   - Por hora ainda nao foi decidido sobre a luta do jogo, mas algo entre mr2 e grand chase com times
   - A visao vai ser em contrapartida, ou sea, meio de frente pra ver os detalhes e movimentacao de perto 
   - branch atual de merges de funcionalidades mudada de caseiro para mergs alguma coisa
